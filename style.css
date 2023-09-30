@@ -58,6 +58,7 @@ body {
     display: flex;
     padding: 16px 0 16px 56px;
     justify-content: space-around;
+    cursor: pointer;
 }
 
 /*Styling text area card*/
